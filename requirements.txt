@@ -1,0 +1,8 @@
+yfinance
+numpy
+dotenv
+requests
+pydantic
+finnhub-python
+
+
